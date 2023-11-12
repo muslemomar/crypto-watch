@@ -19,6 +19,7 @@ CryptoWatch is a web application that empowers users to stay informed about the 
 
    ```bash
    git clone git@github.com:muslemomar/crypto-watch.git
+   ```
 
 2. **Install dependencies:**
 
