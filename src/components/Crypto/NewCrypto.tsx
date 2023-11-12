@@ -37,10 +37,10 @@ const NewCrypto = () => {
     if (enteredCode.trim().length === 0) return setError("The input is empty");
     if (hasCrypto(enteredCode)) return setError("The crypto already exists");
 
-    const { data: cryptoData, error } = await fetchCryptoPrice({
+    const { data: cryptoData, error: queryErr } = await fetchCryptoPrice({
       variables: { cryptoCode: enteredCode },
     });
-    if (error) return setError("Network error. Please check your connection");
+    if (queryErr) return setError("Network error. Please check your connection");
 
     const cryptoPrice = cryptoData?.cryptoToEuro.EUR;
 
