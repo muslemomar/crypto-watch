@@ -6,6 +6,8 @@ Welcome to CryptoWatch - Your Cryptocurrency Tracking Solution
 
 CryptoWatch is a web application that empowers users to stay informed about the latest values of various cryptocurrencies.
 
+Preview: https://crypto-watch-nu-six.vercel.app/
+
 ## Features
 
 - **Add Cryptocurrencies:** Seamlessly add new cryptocurrencies to your watchlist.
