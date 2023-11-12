@@ -2,7 +2,7 @@
   "name": "bitcasino",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://muslemomar.github.io/crypto-watch",
+  "homepage": "https://muslemomar.github.io/crypto-watch",
   "dependencies": {
     "@apollo/client": "^3.8.7",
     "@mui/icons-material": "^5.14.16",
