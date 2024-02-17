@@ -1,10 +1,10 @@
 # CryptoWatch
 
-Welcome to CryptoWatch - Your Cryptocurrency Tracking Solution
+Welcome to Crypto Watch - Your Cryptocurrency Tracking Solution
 
 ## Overview
 
-CryptoWatch is a web application that empowers users to stay informed about the latest values of various cryptocurrencies.
+Crypto Watch is a web application that empowers users to stay informed about the latest values of various cryptocurrencies.
 
 ## Features
 
