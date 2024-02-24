@@ -1,4 +1,4 @@
-# CryptoWatch
+# 💰 CryptoWatch
 
 Welcome to Crypto Watch - Your Cryptocurrency Tracking Solution
 
