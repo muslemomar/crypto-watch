@@ -9,7 +9,7 @@ const root = ReactDOM.createRoot(
 );
 
 const client = new ApolloClient({
-  uri: "http://52.73.124.199/graphql",
+  uri: "https://graphql-crypto-api.vercel.app/graphql",
   cache: new InMemoryCache(),
 });
 
