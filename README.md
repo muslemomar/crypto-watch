@@ -35,6 +35,10 @@ Crypto Watch is a web application that empowers users to stay informed about the
 
 4. **Open your browser and visit http://localhost:3000.**
 
+## Live URL
+
+https://crypto-watch-nu-six.vercel.app/
+
 ## Tech Stack
 
 - React
